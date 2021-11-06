@@ -10,3 +10,4 @@ Pingger Stable is used to fix unstable pings when playing games and there are ad
 - [Xda](https://forum.xda-developers.com/android/software/magisk-module-pingger-stable-game-t4041289)
 - [Telegram group](https://t.me/wahyu6070group)
 # 1
+# 1
