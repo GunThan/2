@@ -11,3 +11,4 @@ Pingger Stable is used to fix unstable pings when playing games and there are ad
 - [Telegram group](https://t.me/wahyu6070group)
 # 1
 # 1
+# 1
